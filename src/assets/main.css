@@ -1,0 +1,9 @@
+@import './base.css';
+
+/* Clean app styles for our custom pages */
+#app {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
